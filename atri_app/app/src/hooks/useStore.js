@@ -409,7 +409,7 @@ const desktopModeProps = {
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icon.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/icon.svg"
       },
       "callbacks": {
         "onClick": [
@@ -566,7 +566,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER1.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -591,7 +591,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/doordash.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/doordash.svg"
       },
       "callbacks": {
         "onClick": [
@@ -604,7 +604,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/postmates.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/postmates.svg"
       },
       "callbacks": {
         "onClick": [
@@ -617,7 +617,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/grubhub.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/grubhub.svg"
       },
       "callbacks": {
         "onClick": [
@@ -630,7 +630,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/rappi.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/rappi.svg"
       },
       "callbacks": {
         "onClick": [
@@ -715,7 +715,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/breakfast.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/breakfast.svg"
       },
       "callbacks": {
         "onClick": [
@@ -764,7 +764,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/main_dishes.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/main_dishes.svg"
       },
       "callbacks": {
         "onClick": [
@@ -813,7 +813,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/drinks.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/drinks.svg"
       },
       "callbacks": {
         "onClick": [
@@ -862,7 +862,7 @@ const desktopModeProps = {
     "Image12": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/desserts.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/desserts.svg"
       },
       "callbacks": {
         "onClick": [
@@ -875,7 +875,7 @@ const desktopModeProps = {
     "Image15": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/aboutUs.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/aboutUs.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -900,7 +900,7 @@ const desktopModeProps = {
     "Image16": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/location.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/location.svg"
       },
       "callbacks": {
         "onClick": [
@@ -937,7 +937,7 @@ const desktopModeProps = {
     "Image17": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/phone.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/phone.svg"
       },
       "callbacks": {
         "onClick": [
@@ -962,7 +962,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/mail.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/mail.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1059,7 +1059,7 @@ const desktopModeProps = {
     "Image19": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER1.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER1.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1132,7 +1132,7 @@ const desktopModeProps = {
     "Image20": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/milkshake.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/milkshake.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1181,7 +1181,7 @@ const desktopModeProps = {
     "Image21": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/fries.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/fries.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1230,7 +1230,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/pancakes.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/pancakes.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1255,7 +1255,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/regular_soda.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/regular_soda.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1304,7 +1304,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/egg_toast.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/egg_toast.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1353,7 +1353,7 @@ const desktopModeProps = {
     "Image25": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/chicken_burger.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/chicken_burger.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1426,7 +1426,7 @@ const desktopModeProps = {
     "Image26": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icecream.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/icecream.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1523,7 +1523,7 @@ const desktopModeProps = {
     "Image27": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER2.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1572,7 +1572,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/left_arrow.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/left_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1609,7 +1609,7 @@ const desktopModeProps = {
     "Image31": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1622,7 +1622,7 @@ const desktopModeProps = {
     "Image32": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1635,7 +1635,7 @@ const desktopModeProps = {
     "Image33": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1648,7 +1648,7 @@ const desktopModeProps = {
     "Image34": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1661,7 +1661,7 @@ const desktopModeProps = {
     "Image35": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1674,7 +1674,7 @@ const desktopModeProps = {
     "Image36": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/matt_cannon.jpg"
+        "src": "C:/Program Files/Git/Atri/app-assets/matt_cannon.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -1711,7 +1711,7 @@ const desktopModeProps = {
     "Image29": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/right_arrow.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/right_arrow.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1772,7 +1772,7 @@ const desktopModeProps = {
     "Image38": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER3.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER3.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1821,7 +1821,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/fries_article.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/fries_article.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1858,7 +1858,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/chicken_article.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/chicken_article.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1895,7 +1895,7 @@ const desktopModeProps = {
     "Image41": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER4.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER4.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -1932,7 +1932,7 @@ const desktopModeProps = {
     "Image42": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/cake_article.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/cake_article.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2005,7 +2005,7 @@ const desktopModeProps = {
     "Image43": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/location.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/location.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2018,7 +2018,7 @@ const desktopModeProps = {
     "Image46": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/phone.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/phone.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2043,7 +2043,7 @@ const desktopModeProps = {
     "Image47": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/mail.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/mail.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2237,7 +2237,7 @@ const desktopModeProps = {
     "Image48": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER5.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER5.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2250,7 +2250,7 @@ const desktopModeProps = {
     "Image49": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/fries.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/fries.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2263,7 +2263,7 @@ const desktopModeProps = {
     "Image50": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER6.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER6.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2276,7 +2276,7 @@ const desktopModeProps = {
     "Image51": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/fries2.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/fries2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2289,7 +2289,7 @@ const desktopModeProps = {
     "Image52": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/hamburger.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/hamburger.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2302,7 +2302,7 @@ const desktopModeProps = {
     "Image53": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/cola.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/cola.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2315,7 +2315,7 @@ const desktopModeProps = {
     "Image55": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/icon.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/icon.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2340,7 +2340,7 @@ const desktopModeProps = {
     "Image61": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2353,7 +2353,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2366,7 +2366,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2379,7 +2379,7 @@ const desktopModeProps = {
     "Image64": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2392,7 +2392,7 @@ const desktopModeProps = {
     "Image65": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/star.svg"
+        "src": "C:/Program Files/Git/Atri/app-assets/star.svg"
       },
       "callbacks": {
         "onClick": [
@@ -2609,7 +2609,7 @@ const desktopModeProps = {
     "Image66": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/cola.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/cola.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2622,7 +2622,7 @@ const desktopModeProps = {
     "Image67": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/hamburger.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/hamburger.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2635,7 +2635,7 @@ const desktopModeProps = {
     "Image68": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/fries2.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/fries2.jpeg"
       },
       "callbacks": {
         "onClick": [
@@ -2648,7 +2648,7 @@ const desktopModeProps = {
     "Image69": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/BURGER6.jpeg"
+        "src": "C:/Program Files/Git/Atri/app-assets/BURGER6.jpeg"
       },
       "callbacks": {
         "onClick": [
